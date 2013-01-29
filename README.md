@@ -1,4 +1,4 @@
 spring-batch-example
 ====================
 
-Spring-batch example project
+Example project wirtten with Groovy on Grails to demonstrate Spring Batch with Grails RAD
